@@ -1,2 +1,6 @@
 # hello-word
-Juste un répertoire
+
+Hello, je suis Julie.
+
+J'ai deux chiens et un chat.
+Je ne mange pas de viande.
